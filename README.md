@@ -3,7 +3,7 @@
 # 🚀 Kazi Rohanuzzaman Mehal
 ### Microsoft Learn Student Ambassador | Full-Stack Developer | ML Engineer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🌟+Building+Tomorrow's+Technology+Today;🤖+AI+%7C+Machine+Learning+%7C+Web+Development;🔥+Microsoft+Learn+Student+Ambassador)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🌟+Building+Tomorrow's+Technology+Today;🔥+Microsoft+Learn+Student+Ambassador)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
