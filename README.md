@@ -3,15 +3,9 @@
 # 🚀 Kazi Rohanuzzaman Mehal
 ### Beta MLSA | Civic Technologist | Full-Stack Web Developer | Cloud & DevOps | Quantum Computing
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=110&lines=🌟+Building+Impactful+Technology;🔥+Beta+Microsoft+Learn+Student+Ambassador;☁️+Cloud+%26+DevOps+Enthusiast;⚛️+Exploring+Quantum+Computing)](https://git.io/typing-svg)
+<img src="https://placehold.co/1000x260/0D1117/38BDF8?text=Your+GitHub+Profile+Banner+Here" width="100%" alt="GitHub profile banner placeholder" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
-
----
-
-<div align="center">
+<br>
 
 ### 🌍 **Dhaka, Bangladesh** | 💻 **Building Impactful Tech** | 🎯 **Civic-Tech & Cloud Enthusiast**
 
@@ -25,8 +19,6 @@
 ---
 
 ## 🧠 About Me
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
 ```typescript
 const mehal = {
@@ -44,7 +36,8 @@ const mehal = {
         "Full-Stack Development",
         "Cloud Computing",
         "DevOps",
-        "Generative AI & LLMs"
+        "Generative AI & LLMs",
+        "GitHub Profile Automation"
     ],
     technologies: {
         frontend: ["React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS"],
@@ -59,13 +52,71 @@ const mehal = {
 };
 ```
 
-<br clear="right"/>
+---
+
+## 🐍 GitHub Contribution Snake Game
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<br>
+
+<img src="https://placehold.co/1000x80/0D1117/38BDF8?text=If+the+snake+does+not+show,+add+the+workflow+file+below" width="100%" alt="Snake workflow placeholder" />
+
+</div>
+
+> Create this file in your profile repository: `.github/workflows/snake.yml`
+
+```yml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: MihalKazi
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake animation to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
 ---
 
 ## 🔥 Featured Projects
 
 <div align="center">
+
+<img src="https://placehold.co/1000x180/111827/38BDF8?text=Featured+Projects+Showcase" width="100%" alt="Featured projects placeholder" />
+
+<br><br>
 
 ### 🚀 Activate Rights Website
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MihalKazi&repo=Activate-Rights-WEBSITE&theme=tokyonight&hide_border=true)](https://github.com/MihalKazi/Activate-Rights-WEBSITE)
@@ -115,16 +166,6 @@ const mehal = {
 - **Tech Stack:** `C#` `.NET Framework` `WPF` `Windows API`
 - **Recognition:** University project showcasing system-level programming
 
----
-
-### 📚 ACS Bootcamp Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MihalKazi&repo=ACS-Bootcamp&theme=tokyonight&hide_border=true)](https://github.com/MihalKazi/ACS-Bootcamp)
-
-**🎓 Educational full-stack development project**
-- 💻 **Learning Platform** | 🚀 **Web Development** | 🧠 **Best Practices**
-- **Tech Stack:** `JavaScript` `HTML` `CSS`
-- **Focus:** Bootcamp-style learning and implementation
-
 </div>
 
 ---
@@ -160,6 +201,7 @@ const mehal = {
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -182,31 +224,31 @@ const mehal = {
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Visual Widgets
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MihalKazi&custom_title=Mehal's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=f9ca24&area=true&hide_border=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MihalKazi&custom_title=Mehal's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=f9ca24&area=true&hide_border=true" width="100%" alt="GitHub activity graph">
 
 <br><br>
 
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=MihalKazi&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Statistics&include_all_commits=true&count_private=true" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=MihalKazi&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Statistics&include_all_commits=true&count_private=true" width="100%" alt="GitHub statistics">
 </td>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihalKazi&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages&langs_count=8" width="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihalKazi&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages&langs_count=8" width="100%" alt="Top languages">
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MihalKazi&theme=tokyonight&hide_border=true&stroke=70a5fd&background=1a1b27&ring=70a5fd&fire=f9ca24&currStreakLabel=70a5fd" width="100%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MihalKazi&theme=tokyonight&hide_border=true&stroke=70a5fd&background=1a1b27&ring=70a5fd&fire=f9ca24&currStreakLabel=70a5fd" width="100%" alt="GitHub streak stats">
 
 <br><br>
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=MihalKazi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="100%">
+<img src="https://github-profile-trophy.vercel.app/?username=MihalKazi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="100%" alt="GitHub trophies">
 
 </div>
 
@@ -225,9 +267,9 @@ const mehal = {
 - ☁️ Growing in Cloud, DevOps, and Azure
 - 🤖 Exploring Generative AI, LLMs, and applied ML
 - ⚛️ Learning Quantum Computing and future technologies
+- 🐍 Adding GitHub profile automation and contribution visuals
 - 🌍 Contributing to open-source and community projects
 - 🧑‍🏫 Mentoring students and sharing technical knowledge
-- 🛠️ Building real-world full-stack products
 
 </td>
 <td width="50%">
@@ -257,19 +299,19 @@ const mehal = {
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://placehold.co/180x120/0D1117/38BDF8?text=Beta+MLSA" width="160" alt="Beta MLSA placeholder">
 <br><strong>Microsoft Learn</strong>
 <br><strong>Student Ambassador</strong>
 <br><em>Beta MLSA</em>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://placehold.co/180x120/0D1117/38BDF8?text=Civic+Tech" width="160" alt="Civic tech placeholder">
 <br><strong>Civic-Tech</strong>
 <br><strong>Impact Builder</strong>
 <br><em>Rights & Awareness</em>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://placehold.co/180x120/0D1117/38BDF8?text=Open+Source" width="160" alt="Open source placeholder">
 <br><strong>Open Source</strong>
 <br><strong>Contributor</strong>
 <br><em>Community Focused</em>
@@ -292,11 +334,9 @@ const mehal = {
 
 <div align="center">
 
-### 💬 **Let's Connect & Collaborate!**
+<img src="https://placehold.co/900x180/111827/38BDF8?text=Let's+Connect+and+Collaborate" width="100%" alt="Community placeholder" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
-
-<br>
+<br><br>
 
 **I'm always open to:**
 - 🚀 Innovative project collaborations
@@ -346,8 +386,6 @@ const mehal = {
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-
 ### 📈 **Profile Statistics**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MihalKazi&color=blueviolet&style=for-the-badge&label=Profile+Views)
@@ -358,6 +396,6 @@ const mehal = {
 
 **🚀 Building impactful technology, one commit at a time! 🚀**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://placehold.co/900x120/0D1117/38BDF8?text=Footer+Placeholder" width="100%" alt="Footer placeholder" />
 
 </div>
