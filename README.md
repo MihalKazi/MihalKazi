@@ -1,170 +1,135 @@
 <div align="center">
 
-# 🚀 Kazi Rohanuzzaman Mehal
-### Beta MLSA | Civic Technologist | Full-Stack Web Developer | Cloud & DevOps | Quantum Computing
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Kazi%20Rohanuzzaman%20Mehal&fontSize=44&fontColor=FFFFFF&animation=twinkling&fontAlignY=34&desc=Beta%20MLSA%20%7C%20Civic%20Technologist%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps&descSize=18&descAlignY=55)
 
-<img src="https://placehold.co/1000x260/0D1117/38BDF8?text=Your+GitHub+Profile+Banner+Here" width="100%" alt="GitHub profile banner placeholder" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=930&lines=Building+impactful+civic-tech+platforms;Full-Stack+Web+Developer+%7C+Cloud+%26+DevOps;Beta+Microsoft+Learn+Student+Ambassador;Exploring+AI%2C+LLMs+and+Quantum+Computing)](https://git.io/typing-svg)
 
-<br>
-
-### 🌍 **Dhaka, Bangladesh** | 💻 **Building Impactful Tech** | 🎯 **Civic-Tech & Cloud Enthusiast**
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MihalKazi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi-rohanuzzaman-mehal07)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mihal.kazi.1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vegeta_the_prince__)
+[![GitHub](https://img.shields.io/badge/GitHub-MihalKazi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MihalKazi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kazi%20Rohanuzzaman%20Mehal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi-rohanuzzaman-mehal07)
+[![Facebook](https://img.shields.io/badge/Facebook-mihal.kazi.1-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mihal.kazi.1)
+[![Instagram](https://img.shields.io/badge/Instagram-_vegeta__the__prince__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vegeta_the_prince__)
 
 </div>
 
 ---
 
+<div align="center">
+
+### 🌍 Dhaka, Bangladesh · 💻 Building Impactful Tech · 🎯 Civic-Tech, Cloud & DevOps
+
+</div>
+
 ## 🧠 About Me
 
-```typescript
+```ts
 const mehal = {
-    name: "Kazi Rohanuzzaman Mehal",
-    role: "Beta Microsoft Learn Student Ambassador",
-    location: "Dhaka, Bangladesh 🇧🇩",
-    identity: [
-        "Civic Technologist",
-        "Full-Stack Web Developer",
-        "Cloud & DevOps Enthusiast",
-        "Quantum Computing Learner"
-    ],
-    currentFocus: [
-        "Civic-Tech Platforms",
-        "Full-Stack Development",
-        "Cloud Computing",
-        "DevOps",
-        "Generative AI & LLMs",
-        "GitHub Profile Automation"
-    ],
-    technologies: {
-        frontend: ["React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js", "Python", "PHP", "C#", ".NET"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        cloudDevOps: ["Azure", "AWS", "Docker", "Kubernetes", "GitHub Actions"],
-        aiMl: ["TensorFlow", "PyTorch", "Scikit-learn", "Pandas", "NumPy"],
-        tools: ["Git", "GitHub", "VS Code", "Figma", "Postman", "Jupyter"]
-    },
-    currentlyLearning: "Cloud, DevOps, Generative AI, and Quantum Computing",
-    funFact: "I debug with console.log() and I'm proud of it! 🐛"
+  name: "Kazi Rohanuzzaman Mehal",
+  role: "Beta Microsoft Learn Student Ambassador",
+  location: "Dhaka, Bangladesh 🇧🇩",
+  identity: [
+    "Civic Technologist",
+    "Full-Stack Web Developer",
+    "Cloud & DevOps Enthusiast",
+    "Quantum Computing Learner"
+  ],
+  focus: [
+    "Civic-Tech Platforms",
+    "Full-Stack Web Development",
+    "Cloud & DevOps",
+    "Generative AI & LLMs",
+    "GitHub Profile Automation"
+  ],
+  mindset: "Build useful things. Keep learning. Help the community."
 };
 ```
 
 ---
 
-## 🐍 GitHub Contribution Snake Game
-
 <div align="center">
+
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:112240,100:0EA5E9&height=2)
+
+</div>
+
+## 🎮 GitHub Contribution Games
+
+> These games are generated automatically from my GitHub contribution graph.
+
+### 🟡 Pac-Man Contribution Game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph game" src="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+
+### 🐍 Snake Contribution Game
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
+
+<details>
+<summary>🎲 More arcade games</summary>
 
 <br>
 
-<img src="https://placehold.co/1000x80/0D1117/38BDF8?text=If+the+snake+does+not+show,+add+the+workflow+file+below" width="100%" alt="Snake workflow placeholder" />
+### 🧱 Breakout
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/breakout-contribution-graph.svg">
+  <img alt="Breakout contribution graph game" src="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/breakout-contribution-graph.svg" width="100%">
+</picture>
 
-> Create this file in your profile repository: `.github/workflows/snake.yml`
+### 🚀 Galaga
 
-```yml
-name: Generate Snake Animation
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/galaga-contribution-graph.svg">
+  <img alt="Galaga contribution graph game" src="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/galaga-contribution-graph.svg" width="100%">
+</picture>
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+### 💣 Bomberman
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/bomberman-contribution-graph.svg">
+  <img alt="Bomberman contribution graph game" src="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/bomberman-contribution-graph.svg" width="100%">
+</picture>
 
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: MihalKazi
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push snake animation to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+</details>
 
 ---
+
+<div align="center">
+
+![Projects Banner](https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:1E3A8A,100:06B6D4&height=150&section=header&text=Featured%20Projects&fontSize=38&fontColor=FFFFFF&animation=fadeIn)
+
+</div>
 
 ## 🔥 Featured Projects
 
 <div align="center">
 
-<img src="https://placehold.co/1000x180/111827/38BDF8?text=Featured+Projects+Showcase" width="100%" alt="Featured projects placeholder" />
+| Project | Description | Stack |
+|---|---|---|
+| [**Activate Rights Website**](https://github.com/MihalKazi/Activate-Rights-WEBSITE) | Civic-tech platform focused on rights awareness and digital impact. | `TypeScript` `Web` |
+| [**Client Portfolios**](https://github.com/MihalKazi/client-portfolios) | Clean professional portfolio websites for client presentation. | `JavaScript` `Frontend` |
+| [**AgriCare**](https://github.com/MihalKazi/AgriCare) | Smart agricultural management platform for farmers and stakeholders. | `PHP` `HTML` `CSS` `JavaScript` |
+| [**Heart Disease Prediction**](https://github.com/MihalKazi/heart-disease-prediction) | ML model for cardiovascular risk prediction. | `Python` `Scikit-learn` `Pandas` |
+| [**Windows System Optimizer Pro**](https://github.com/MihalKazi/windows-system-tool-varsity-project-) | Windows performance, monitoring, and system-level optimization project. | `C#` `.NET` `WPF` |
 
-<br><br>
+<br>
 
-### 🚀 Activate Rights Website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MihalKazi&repo=Activate-Rights-WEBSITE&theme=tokyonight&hide_border=true)](https://github.com/MihalKazi/Activate-Rights-WEBSITE)
-
-**🌍 Civic-tech platform focused on rights awareness and digital impact**
-- ⚖️ **Rights Awareness** | 🌐 **Modern Web Platform** | 🚀 **Impact-Driven Development**
-- **Tech Stack:** `TypeScript` `Modern Web Development`
-- **Focus:** Building technology for civic awareness and social good
-
----
-
-### 💼 Client Portfolios
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MihalKazi&repo=client-portfolios&theme=tokyonight&hide_border=true)](https://github.com/MihalKazi/client-portfolios)
-
-**🎨 Portfolio solutions for professional digital presence**
-- 🧑‍💼 **Client Work** | 🎯 **Responsive Design** | ⚡ **Performance-Focused UI**
-- **Tech Stack:** `JavaScript` `Frontend Development`
-- **Focus:** Creating clean, professional portfolio websites
-
----
-
-### 🌾 AgriCare - Smart Agricultural Management Platform
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MihalKazi&repo=AgriCare&theme=tokyonight&hide_border=true)](https://github.com/MihalKazi/AgriCare)
-
-**🎯 Empowering farmers with technology**
-- 🌱 **Crop Monitoring** | 📊 **Data-Driven Insights** | 🤖 **Smart Recommendations**
-- **Tech Stack:** `PHP` `HTML` `CSS` `JavaScript` `Responsive Design`
-- **Impact:** Helping farmers and agricultural stakeholders use digital tools effectively
-
----
-
-### 🫀 Heart Disease Prediction ML Model
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MihalKazi&repo=heart-disease-prediction&theme=tokyonight&hide_border=true)](https://github.com/MihalKazi/heart-disease-prediction)
-
-**🏥 Healthcare innovation through AI**
-- 🔬 **Machine Learning** | 📈 **Predictive Analytics** | 🩺 **Health Risk Assessment**
-- **Tech Stack:** `Python` `Scikit-learn` `Pandas` `Matplotlib` `NumPy`
-- **Focus:** Applying ML to support cardiovascular risk prediction
-
----
-
-### 🖥️ Windows System Optimizer Pro
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MihalKazi&repo=windows-system-tool-varsity-project-&theme=tokyonight&hide_border=true)](https://github.com/MihalKazi/windows-system-tool-varsity-project-)
-
-**⚡ Enterprise-style system management project**
-- 🛠️ **Performance Optimization** | 📊 **Monitoring** | 🔒 **Security Auditing**
-- **Tech Stack:** `C#` `.NET Framework` `WPF` `Windows API`
-- **Recognition:** University project showcasing system-level programming
+<a href="https://github.com/MihalKazi/Activate-Rights-WEBSITE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MihalKazi&repo=Activate-Rights-WEBSITE&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/MihalKazi/client-portfolios">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MihalKazi&repo=client-portfolios&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
@@ -174,207 +139,118 @@ jobs:
 
 <div align="center">
 
-### Programming Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=38BDF8)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B)
+![PHP](https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=777BB4)
+![C Sharp](https://img.shields.io/badge/C%23-0F172A?style=for-the-badge&logo=csharp&logoColor=239120)
+![Java](https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Frontend & Backend
+![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-0F172A?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![.NET](https://img.shields.io/badge/.NET-0F172A?style=for-the-badge&logo=dotnet&logoColor=512BD4)
 
-### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### Database, Cloud & DevOps
+![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=316192)
+![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Azure](https://img.shields.io/badge/Azure-0F172A?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+![AWS](https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0F172A?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-
-### Tools & Development
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0F172A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=013243)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics & Visual Widgets
+<div align="center">
+
+![Stats Banner](https://capsule-render.vercel.app/api?type=soft&color=0:0EA5E9,100:312E81&height=120&section=header&text=GitHub%20Analytics&fontSize=36&fontColor=FFFFFF&animation=scaleIn)
+
+</div>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MihalKazi&custom_title=Mehal's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=f9ca24&area=true&hide_border=true" width="100%" alt="GitHub activity graph">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MihalKazi&custom_title=Mehal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" />
 
 <br><br>
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=MihalKazi&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Statistics&include_all_commits=true&count_private=true" width="100%" alt="GitHub statistics">
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihalKazi&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages&langs_count=8" width="100%" alt="Top languages">
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MihalKazi&theme=tokyonight&hide_border=true&stroke=70a5fd&background=1a1b27&ring=70a5fd&fire=f9ca24&currStreakLabel=70a5fd" width="100%" alt="GitHub streak stats">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MihalKazi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihalKazi&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 
 <br><br>
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=MihalKazi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="100%" alt="GitHub trophies">
-
-</div>
-
----
-
-## 🎯 2026 Focus & Learning Path
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 **2026 Focus**
-- 🔭 Building civic-tech and impact-driven web platforms
-- ☁️ Growing in Cloud, DevOps, and Azure
-- 🤖 Exploring Generative AI, LLMs, and applied ML
-- ⚛️ Learning Quantum Computing and future technologies
-- 🐍 Adding GitHub profile automation and contribution visuals
-- 🌍 Contributing to open-source and community projects
-- 🧑‍🏫 Mentoring students and sharing technical knowledge
-
-</td>
-<td width="50%">
-
-### 🎓 **Learning Path**
-**Current Focus Areas:**
-- 🤖 Artificial Intelligence & Machine Learning
-- ☁️ Cloud Computing with Azure/AWS
-- 🌐 Full-Stack Web Development
-- 🔧 DevOps & System Design
-- 📊 Data Science & Analytics
-- ⚛️ Quantum Computing
-- 📱 Modern Product Development
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🏅 Achievements & Recognition
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://placehold.co/180x120/0D1117/38BDF8?text=Beta+MLSA" width="160" alt="Beta MLSA placeholder">
-<br><strong>Microsoft Learn</strong>
-<br><strong>Student Ambassador</strong>
-<br><em>Beta MLSA</em>
-</td>
-<td align="center" width="33%">
-<img src="https://placehold.co/180x120/0D1117/38BDF8?text=Civic+Tech" width="160" alt="Civic tech placeholder">
-<br><strong>Civic-Tech</strong>
-<br><strong>Impact Builder</strong>
-<br><em>Rights & Awareness</em>
-</td>
-<td align="center" width="33%">
-<img src="https://placehold.co/180x120/0D1117/38BDF8?text=Open+Source" width="160" alt="Open source placeholder">
-<br><strong>Open Source</strong>
-<br><strong>Contributor</strong>
-<br><em>Community Focused</em>
-</td>
-</tr>
-</table>
-
-### 📜 Certifications & Learning
-![Azure](https://img.shields.io/badge/Microsoft-Azure%20Learning-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AI](https://img.shields.io/badge/AI%20%26%20ML-Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full--Stack-Web%20Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Quantum](https://img.shields.io/badge/Quantum-Computing-6F42C1?style=for-the-badge&logo=atom&logoColor=white)
-
-</div>
-
----
-
-## 🤝 Community & Collaboration
-
-<div align="center">
-
-<img src="https://placehold.co/900x180/111827/38BDF8?text=Let's+Connect+and+Collaborate" width="100%" alt="Community placeholder" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MihalKazi&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FACC15&currStreakLabel=38BDF8" />
 
 <br><br>
 
-**I'm always open to:**
-- 🚀 Innovative project collaborations
-- 🎓 Mentoring fellow developers and students
-- 💡 Tech discussions and knowledge sharing
-- 🌍 Open-source and civic-tech contributions
-- ☁️ Cloud, DevOps, AI, and Quantum Computing learning opportunities
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MihalKazi&theme=tokyonight" />
 
-### 📫 Get In Touch
+<br><br>
 
-<table>
-<tr>
-<td align="center" width="25%">
-<a href="https://www.linkedin.com/in/kazi-rohanuzzaman-mehal07">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-<br><strong>Professional</strong>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://github.com/MihalKazi">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<br><strong>Projects</strong>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://www.facebook.com/mihal.kazi.1">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-<br><strong>Social</strong>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://www.instagram.com/_vegeta_the_prince__">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-<br><strong>Creative</strong>
-</a>
-</td>
-</tr>
-</table>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MihalKazi&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MihalKazi&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=MihalKazi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+
+</div>
+
+---
+
+## 🎯 2026 Focus
+
+<div align="center">
+
+| Area | What I am building |
+|---|---|
+| 🌍 Civic Tech | Rights awareness and social-impact web platforms |
+| ☁️ Cloud & DevOps | Azure, deployment workflows, CI/CD, automation |
+| 🤖 AI & LLMs | Practical AI tools, ML experiments, and automation |
+| ⚛️ Quantum Computing | Learning future computing concepts step by step |
+| 🧑‍🏫 Community | Mentoring, sharing knowledge, and open-source collaboration |
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi-rohanuzzaman-mehal07)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MihalKazi)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mihal.kazi.1)
+[![Instagram](https://img.shields.io/badge/Instagram-Creative%20Side-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vegeta_the_prince__)
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MihalKazi&color=38BDF8&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/MihalKazi?label=Followers&style=for-the-badge&color=0EA5E9&logo=github)
+![Stars](https://img.shields.io/github/stars/MihalKazi?label=Total%20Stars&style=for-the-badge&color=FACC15&logo=github)
 
 </div>
 
@@ -382,20 +258,8 @@ jobs:
 
 <div align="center">
 
-### 💭 **Philosophy**
+> “First, solve the problem. Then, write the code.” — John Johnson
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
-### 📈 **Profile Statistics**
-
-![Profile Views](https://komarev.com/ghpvc/?username=MihalKazi&color=blueviolet&style=for-the-badge&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/MihalKazi?label=Followers&style=for-the-badge&color=blue&logo=github)
-![Stars](https://img.shields.io/github/stars/MihalKazi?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github)
-
----
-
-**🚀 Building impactful technology, one commit at a time! 🚀**
-
-<img src="https://placehold.co/900x120/0D1117/38BDF8?text=Footer+Placeholder" width="100%" alt="Footer placeholder" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=160&section=footer&text=Building%20Impactful%20Technology&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70)
 
 </div>
