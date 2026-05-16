@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Kazi%20Rohanuzzaman%20Mehal&fontSize=42&fontAlign=50&fontAlignY=38&desc=Beta%20MLSA%20%7C%20Civic%20Technologist%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps&descAlign=50&descAlignY=58&animation=twinkling" alt="Profile Header Banner" />
+<!-- GitHub Profile Header Banner -->
+
+![Kazi Rohanuzzaman Mehal Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Kazi%20Rohanuzzaman%20Mehal&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=Beta%20MLSA%20%7C%20Civic%20Technologist%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps&descSize=17&descAlignY=58)
 
 <br>
 
@@ -29,6 +30,8 @@
 ### 🌍 Dhaka, Bangladesh · 💻 Building Impactful Tech · 🎯 Civic-Tech, Cloud & DevOps
 
 </div>
+
+---
 
 ## 🧠 About Me
 
@@ -60,17 +63,25 @@ const mehal = {
 
 <div align="center">
 
-> Run the workflow first. After it succeeds, these games will appear from your `output` branch.
+> These will appear after the GitHub Actions workflow successfully generates the `output` branch.
 
 ### 🟡 Pac-Man Contribution Game
 
-<img width="100%" src="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph game" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph game" src="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/pacman-contribution-graph.svg" width="100%">
+</picture>
 
 <br><br>
 
 ### 🐍 Snake Contribution Game
 
-<img width="100%" src="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/github-contribution-grid-snake.svg" alt="Snake contribution graph game" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/github-contribution-grid-snake.svg">
+  <img alt="Snake contribution graph game" src="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 </div>
 
@@ -82,13 +93,32 @@ const mehal = {
 <div align="center">
 
 ### 🧱 Breakout
-<img width="100%" src="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/breakout-contribution-graph.svg" alt="Breakout contribution graph game" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/breakout-contribution-graph.svg">
+  <img alt="Breakout contribution graph game" src="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/breakout-contribution-graph.svg" width="100%">
+</picture>
+
+<br><br>
 
 ### 🚀 Galaga
-<img width="100%" src="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/galaga-contribution-graph.svg" alt="Galaga contribution graph game" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/galaga-contribution-graph.svg">
+  <img alt="Galaga contribution graph game" src="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/galaga-contribution-graph.svg" width="100%">
+</picture>
+
+<br><br>
 
 ### 💣 Bomberman
-<img width="100%" src="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/bomberman-contribution-graph.svg" alt="Bomberman contribution graph game" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/bomberman-contribution-graph.svg">
+  <img alt="Bomberman contribution graph game" src="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/bomberman-contribution-graph.svg" width="100%">
+</picture>
 
 </div>
 
@@ -98,7 +128,7 @@ const mehal = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=130&color=0:0F172A,100:0EA5E9&text=Featured%20Projects&fontSize=38&fontColor=FFFFFF&animation=fadeIn" alt="Featured Projects Banner" />
+![Featured Projects Banner](https://capsule-render.vercel.app/api?type=soft&height=130&color=0:0F172A,100:0EA5E9&text=Featured%20Projects&fontSize=38&fontColor=FFFFFF&animation=fadeIn)
 
 </div>
 
@@ -119,6 +149,7 @@ const mehal = {
 <div align="center">
 
 ### Languages
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=38BDF8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B)
@@ -129,6 +160,7 @@ const mehal = {
 ![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 ### Frontend & Backend
+
 ![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=339933)
@@ -137,6 +169,7 @@ const mehal = {
 ![.NET](https://img.shields.io/badge/.NET-0F172A?style=for-the-badge&logo=dotnet&logoColor=512BD4)
 
 ### Database, Cloud & DevOps
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=316192)
 ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
@@ -146,6 +179,7 @@ const mehal = {
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0F172A?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 
 ### AI / ML
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0F172A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
@@ -158,7 +192,7 @@ const mehal = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=130&color=0:0EA5E9,100:312E81&text=GitHub%20Analytics&fontSize=38&fontColor=FFFFFF&animation=fadeIn" alt="GitHub Analytics Banner" />
+![GitHub Analytics Banner](https://capsule-render.vercel.app/api?type=soft&height=130&color=0:0EA5E9,100:312E81&text=GitHub%20Analytics&fontSize=38&fontColor=FFFFFF&animation=fadeIn)
 
 </div>
 
@@ -220,6 +254,6 @@ const mehal = {
 
 > “First, solve the problem. Then, write the code.” — John Johnson
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&text=Building%20Impactful%20Technology&fontSize=26&fontColor=FFFFFF&animation=fadeIn" alt="Footer Banner" />
+![Footer Banner](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&text=Building%20Impactful%20Technology&fontSize=26&fontColor=FFFFFF&animation=fadeIn)
 
 </div>
