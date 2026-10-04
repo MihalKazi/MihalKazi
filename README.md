@@ -62,3 +62,4 @@ I build tools for women's safety and civic rights. Currently **Tech & Security A
 Open to collaboration on civic tech and cloud projects · [LinkedIn](https://www.linkedin.com/in/kazi-rohanuzzaman-mehal07) · [Email](mailto:rohankazi728@gmail.com)
 
 </div>
+
