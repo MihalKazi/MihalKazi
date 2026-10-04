@@ -1,6 +1,10 @@
 <h1 align="center">Kazi Rohanuzzaman Mehal</h1>
 
 <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Civic+Technologist;Building+secure%2C+privacy-first+platforms;Cloud+%26+DevOps+Enthusiast" alt="Typing animation"></a>
+</p>
+
+<p align="center">
   <strong>Full-Stack Developer · Civic Technologist · Beta Microsoft Learn Student Ambassador</strong><br>
   Dhaka, Bangladesh
 </p>
