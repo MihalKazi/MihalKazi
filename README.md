@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>Kazi Rohanuzzaman Mehal</h1>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=190&section=header&text=Kazi%20Rohanuzzaman%20Mehal&fontSize=46&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+secure%2C+privacy-first+platforms;Civic+tech+for+real+communities;Cloud+%26+DevOps+enthusiast;Beta+Microsoft+Learn+Student+Ambassador" alt="Typing animation"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=0EA5E9&center=true&vCenter=true&width=760&lines=Building+secure%2C+privacy-first+platforms;Civic+tech+for+real+communities;Cloud+%26+DevOps+enthusiast;Beta+Microsoft+Learn+Student+Ambassador" alt="Typing animation"></a>
 
 <p>
   <img src="https://img.shields.io/badge/📍_Dhaka,_Bangladesh-334155?style=flat-square" alt="Location">
@@ -28,6 +28,26 @@ I build secure, privacy-focused web platforms for civic and community use. Curre
 | 🔎 | [**Orchestrated Defense**](https://github.com/MihalKazi/Orchestrated-Defense) | Research report on coordinated inauthentic behaviour targeting Bangladesh’s International Crimes Tribunal. [Live →](https://orchestrated-delta.vercel.app) |
 | 🗓️ | [**Interim Govt. Protest Watch**](https://github.com/MihalKazi/Interim-Govt.-Protest-Watch) | Calendar and record archive of protest events under the interim government. |
 | ❤️ | [**Heart Disease Prediction**](https://github.com/MihalKazi/heart-disease-prediction) | Machine learning model for cardiovascular risk prediction. |
+
+### 🎮 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/github-contribution-grid-snake.svg">
+  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/MihalKazi/MihalKazi/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+
+</div>
 
 ### 🛠️ Tech Stack
 
