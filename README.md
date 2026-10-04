@@ -257,3 +257,4 @@ const mehal = {
 ![Footer Banner](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&text=Building%20Impactful%20Technology&fontSize=26&fontColor=FFFFFF&animation=fadeIn)
 
 </div>
+
