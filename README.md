@@ -27,7 +27,8 @@ I build secure, privacy-focused web platforms for civic and community use. Curre
 | [**Nirbhoy**](https://github.com/MihalKazi/Nirbhoy) | Bilingual (Bangla / English) support site for women facing online gender-based violence. |
 | [**GNG: Generated, not Genuine**](https://github.com/MihalKazi/Activate-Rights-WEBSITE) | AI-generated content verification tool for media integrity. [Live](https://aigng.activaterights.org) |
 | [**Archive & Resist Conclave 2026**](https://github.com/MihalKazi/archivecon) | Official event website for digital archiving and resistance advocacy. [Live](https://archivecon.activaterights.org) |
-| [**Client Portfolios**](https://github.com/MihalKazi/client-portfolios) | Professional portfolio sites built for clients. |
+| [**Orchestrated Defense**](https://github.com/MihalKazi/Orchestrated-Defense) | Research report on coordinated inauthentic behaviour targeting Bangladesh’s International Crimes Tribunal. [Live](https://orchestrated-delta.vercel.app) |
+| [**Interim Govt. Protest Watch**](https://github.com/MihalKazi/Interim-Govt.-Protest-Watch) | Calendar and record archive of protest events under the interim government. |
 | [**Heart Disease Prediction**](https://github.com/MihalKazi/heart-disease-prediction) | Machine learning model for cardiovascular risk prediction. |
 
 ## Skills
